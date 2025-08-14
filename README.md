@@ -32,7 +32,7 @@ For this script to work, your wireless network interface **must** be in **monito
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Ashin-06/wifi-deauth-attack.git](https://github.com/Ashin-06/wifi-deauth-attack.git)
+    git clone https://github.com/Ashin-06/wifi-deauth-attack.git
     cd wifi-deauth-attack
     ```
 
